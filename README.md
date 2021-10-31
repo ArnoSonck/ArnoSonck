@@ -1,5 +1,8 @@
-### Hi there 👋
+# Arno Sonck
 
+![Arno Sonck](https://i.ibb.co/tQbD07n/GitHub.gif)
+
+### Hi there 👋
 <!--
 **ArnoSonck/ArnoSonck** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
