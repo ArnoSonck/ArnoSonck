@@ -1,6 +1,6 @@
 # Arno Sonck
 
-![Arno Sonck](https://i.ibb.co/tQbD07n/GitHub.gif)
+![Arno Sonck](https://i.ibb.co/1bmTMTY/GitHub.gif)
 
 ### Hi there 👋
 <!--
